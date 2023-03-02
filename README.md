@@ -6,3 +6,4 @@ However the will be some restrictions. I am commiting changes to this README fil
 1. I will set a time constraint and see how many tasks (only free tasks) can be done in aeound 52 hours, untill midnight, March 5th
 2. No reading of discussion shall be done. I am also not allowed to read the answers anywhere.
 3. Each query shall be commented with explaining the way I was thinking
+4. If the task is complex, i.e. the difficlty is medium - hard and it is a coding question, reformatting installed in JetBrains DataGrip will be used for formatting
